@@ -1,0 +1,2 @@
+# EazyBank
+microservices for EazyBank
